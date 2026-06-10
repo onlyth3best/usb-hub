@@ -11,4 +11,4 @@ a usb hub made with help from fallout.hackclub.com:
 
 
 <img width="540" height="828" alt="usbPNG" src="https://github.com/user-attachments/assets/dfd19d6f-5d44-46d6-8281-aacf3f0583f8" />
-[usbPDFF.pdf](https://github.com/user-attachments/files/28807005/usbPDFF.pdf)
+<br/> [usbPDFF.pdf](https://github.com/user-attachments/files/28807005/usbPDFF.pdf)
