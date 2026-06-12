@@ -20,6 +20,9 @@ My motivations were:
 2) I wanted to try out another software different to KiCad, so I used EasyEDA for this one
 3) --I really wanted to add the penguin on one of my projects because I haven't already--
 
+### firmware/setup…
+…is not required, all you need is the USBs you want to plug in ;DD
+
 ### poster zine:
-<img width="540" height="828" alt="usbPNG" src="https://github.com/user-attachments/assets/dfd19d6f-5d44-46d6-8281-aacf3f0583f8" />
+<img width="540" height="828" alt="usbPNGπ" src="https://github.com/user-attachments/assets/dfd19d6f-5d44-46d6-8281-aacf3f0583f8" />
 <br/> [usbPDFF.pdf](https://github.com/user-attachments/files/28807005/usbPDFF.pdf)
