@@ -7,8 +7,8 @@ ID,Name,Designator,Footprint,Quantity,Manufacturer Part,Manufacturer,Supplier,Su
 6,"TYPE-C 16PIN 2MD(073)","USB2,USB3,USB1","USB-C-SMD_TYPE-C-16PIN-2MD-073",3,"TYPE-C 16PIN 2MD(073)","SHOU HAN(首韩)","LCSC","C2765186",0.074,"https://item.szlcsc.com/datasheet/TYPE-C%252016PIN%25202MD(073)/2901843.html?spm=sc.gbn.xds.a___sc.gbn.hd.ss&lcsc_vid=QlQLUVBQT1ILU1MATlNWAVYCT1hYXgFRT1ReAlAAEQMxVlNRQFJaUVJRQVhXVzsOAxUeFF5JWA0NAgAHWQIASA%3D%3D"
 
 "",PCB (via JLCPCB),"","",1,"","","","",$2,""
-"",shipping (via JLCPCB, GSDL),"","",1,"","","","",$1.5,""
-"",shipping (via LSCS, GSDL),"","",1,"","","","",$4""
+"","shipping (via JLCPCB, GSDL)","","",1,"","","","",$1.5,""
+"","shipping (via LSCS, GSDL)","","",1,"","","","",$4""
 "",shipping (via Mouser),"","",1,"","","","",$20""
 "",(SHIPPING TOTAL),"","",1,"","","","",$27.5,""
 "",OVERALL TOTAL,"","","","","","","",$27.915,""
