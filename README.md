@@ -45,7 +45,7 @@ My motivations were:
 | item | price |
 |-------|-------|
 | PCB (via JLCPCB) | $2 |
-| shipping (via JLCPCB) | $22 |
+| shipping (via JLCPCB, GSDL) | $1.5 |
 | TOTAL: | $24 |
 
 <img width="150" height="226" alt="Snímek obrazovky 2026-06-19 v 23 39 44" src="https://github.com/user-attachments/assets/4d812bd1-46fd-4fc1-8bf3-f1c018e6da54" />
