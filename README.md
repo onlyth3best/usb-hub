@@ -41,11 +41,5 @@ My motivations were:
 | 6 | TYPE-C 16PIN 2MD(073) | USB2, USB3, USB1 | USB-C-SMD_TYPE-C-16PIN-2MD-073 | 3 | TYPE-C 16PIN 2MD(073) | SHOU HAN(深圳) | LCSC | C2765186 | 0.074 | [Link](https://item.szlcsc.com/datasheet/TYPE-C%2016PIN%202MD(073)/2901843.html?spm=sc.gbn.xds.a___sc.gbn.hd.ss&lcsc_vid=QlQLUVBQT1I5U01NTVhYVlRZRkVSRVFReGlhRkVSRVFReGlhRkVSRVFRUW5WVlJGUVhRVEUxUkVBeEZFUXlFQW5WVlJGUVhRVEUxRkVBeEZFUXlFQW5WVlJGUVhRVEUxRkVBeEZFUXlFQW5WVlJGUVhRVEUxRkVBeEZFUXlF) |
 | x | x | x | x | x | x | x | x | x | total price: 0.415 USD | x |
 
-#### Overall BOM: (planning to source from JLCPCB);
-| item | price |
-|-------|-------|
-| PCB (via JLCPCB) | $2 |
-| shipping (via JLCPCB, GSDL) | $1.5 |
-| TOTAL: | $24 |
 
 <img width="150" height="226" alt="Snímek obrazovky 2026-06-19 v 23 39 44" src="https://github.com/user-attachments/assets/4d812bd1-46fd-4fc1-8bf3-f1c018e6da54" />
