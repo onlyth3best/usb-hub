@@ -8,5 +8,7 @@ ID,Name,Designator,Footprint,Quantity,Manufacturer Part,Manufacturer,Supplier,Su
 
 "",PCB (via JLCPCB),"","",1,"","","","",$2,""
 "",shipping (via JLCPCB, GSDL),"","",1,"","","","",$1.5,""
-"",(JLCPCB TOTAL),"","",1,"","","","",$3.5,""
-"",OVERALL TOTAL,"","","","","","","",$3.915,""
+"",shipping (via LSCS, GSDL),"","",1,"","","","",$4""
+"",shipping (via Mouser),"","",1,"","","","",$20""
+"",(SHIPPING TOTAL),"","",1,"","","","",$27.5,""
+"",OVERALL TOTAL,"","","","","","","",$27.915,""
