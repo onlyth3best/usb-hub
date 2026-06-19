@@ -1,7 +1,7 @@
 # usb-hub
 
 
-a usb hub made with help from fallout.hackclub.com:
+a usb hub made with help from Fallout from Hackclub:
 - inputs: 1x USB-C
 - outputs: 2x USB-C, 2x USB-A
 
