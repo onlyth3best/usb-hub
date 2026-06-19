@@ -30,7 +30,7 @@ My motivations were:
 
 
 
-### BOM:
+### PCB BOM:
 | ID | Name | Designator | Footprint | Quantity | Manufacturer | Part Manufacturer | Supplier | Supplier Part | Price | Link |
 |----|------|------------|-----------|----------|--------------|-------------------|----------|---------------|-------|------|
 | 1 | 10.0 QHHTZB6.3 | USB5, USB4 | USB-A-TH_10.0QHHTZB6.3 | 2 | 10.0 QHHTZB6.3 | SHOU HAN | LCSC | C668591 | 0.067 | [Link](https://item.szlcsc.com/698534.html) |
@@ -40,3 +40,5 @@ My motivations were:
 | 5 | SL2.1S | U1 | SSOP-16_L4.6-W2.6-P0.53-LS4.0-BL | 1 | SL2.1s | CoreChips | LCSC | C2684433 | 0.253 | [Link](https://item.szlcsc.com/2782346.html) |
 | 6 | TYPE-C 16PIN 2MD(073) | USB2, USB3, USB1 | USB-C-SMD_TYPE-C-16PIN-2MD-073 | 3 | TYPE-C 16PIN 2MD(073) | SHOU HAN(深圳) | LCSC | C2765186 | 0.074 | [Link](https://item.szlcsc.com/datasheet/TYPE-C%2016PIN%202MD(073)/2901843.html?spm=sc.gbn.xds.a___sc.gbn.hd.ss&lcsc_vid=QlQLUVBQT1I5U01NTVhYVlRZRkVSRVFReGlhRkVSRVFReGlhRkVSRVFRUW5WVlJGUVhRVEUxUkVBeEZFUXlFQW5WVlJGUVhRVEUxRkVBeEZFUXlFQW5WVlJGUVhRVEUxRkVBeEZFUXlFQW5WVlJGUVhRVEUxRkVBeEZFUXlF) |
 | x | x | x | x | x | x | x | x | x | total price: 0.415 USD | x |
+
+#### Overall BOM: (planning to source from JLCPCB);
